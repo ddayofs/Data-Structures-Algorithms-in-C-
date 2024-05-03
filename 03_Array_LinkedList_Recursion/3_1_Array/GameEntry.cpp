@@ -13,4 +13,5 @@ std::string GameEntry::getName() const
 int GameEntry::getScore() const
 {
 	return score;
+
 }
